@@ -125,7 +125,7 @@ button {
   border-radius: 5px;
   margin: 10px 0;
   padding: 5px 30px;
-  border-width: 0;
+  border-color: #3882F6;
 }
 
 .signup-section {
@@ -151,7 +151,8 @@ button {
 }
 
 .signup-section > button {
-  border: 2px solid #F9FAF8;
+  border-color: #F9FAF8;
+  min-width: 110px;
 }
 
 .footer-section {
